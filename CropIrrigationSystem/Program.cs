@@ -6,6 +6,7 @@ namespace CropIrrigationSystem
     {
         static void Main(string[] args)
         {
+            IrrigationSystem irrigationSystem;
             Console.WriteLine("Hello world");
         }
     }
